@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{BUSINESS_NAME}} | Brand Kit</title>
+<!-- Replace the font link and --font-* values with the owner's chosen fonts. -->
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --primary: {{PRIMARY}};
+    --accent: {{ACCENT}};
+    --bg: {{BACKGROUND}};
+    --text: {{TEXT}};
+    --font-head: "Heebo", sans-serif;
+    --font-body: "Heebo", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--font-body); line-height: 1.6; }
+  main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1, h2 { font-family: var(--font-head); line-height: 1.15; }
+  h1 { font-size: clamp(2rem, 7vw, 3.2rem); color: var(--primary); margin: 0 0 4px; }
+  h2 { font-size: 1.5rem; margin: 40px 0 12px; color: var(--primary); }
+  .slogan { font-size: 1.2rem; margin: 0 0 8px; }
+  .swatches { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+  .swatch { border-radius: 14px; overflow: hidden; border: 1px solid rgba(0,0,0,.12); }
+  .swatch i { display: block; height: 90px; }
+  .swatch b, .swatch span { display: block; padding: 4px 12px; }
+  .swatch span { direction: ltr; text-align: right; font-family: monospace; padding-bottom: 10px; }
+  .words { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; list-style: none; }
+  .words li { background: var(--primary); color: var(--bg); border-radius: 999px; padding: 6px 16px; font-weight: 700; }
+  .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+  .card { border: 1px solid rgba(0,0,0,.12); border-radius: 14px; padding: 16px; }
+  .do { border-color: var(--primary); }
+  .dont { border-color: #b3261e; }
+  .card h3 { margin: 0 0 8px; }
+  .font-sample { font-size: 1.6rem; margin: 4px 0; }
+  .offer { background: var(--accent); color: #fff; border-radius: 14px; padding: 20px; font-size: 1.15rem; }
+  @media print { main { padding: 0; } h2 { break-after: avoid; } .card, .swatch { break-inside: avoid; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>{{BUSINESS_NAME}}</h1>
+  <p class="slogan">{{SLOGAN}}</p>
+
+  <h2>מה אני מוכר ולמי</h2>
+  <p>{{WHAT_AND_WHO}}</p>
+
+  <h2>אישיות</h2>
+  <ul class="words"><!-- <li>מילה</li> x3 --></ul>
+  <p>{{BRAND_AS_PERSON}}</p>
+
+  <h2>צבעים</h2>
+  <div class="swatches"><!-- <div class="swatch"><i style="background:#HEX"></i><b>שם ותפקיד</b><span>#HEX</span></div> --></div>
+
+  <h2>גופנים</h2>
+  <div class="cols">
+    <div class="card"><h3>כותרות</h3><p class="font-sample" style="font-family:var(--font-head);font-weight:800">{{HEAD_FONT_NAME}}: אבגד הוז</p></div>
+    <div class="card"><h3>טקסט</h3><p class="font-sample" style="font-family:var(--font-body)">{{BODY_FONT_NAME}}: אבגד הוז</p></div>
+  </div>
+
+  <h2>איך אני מדבר</h2>
+  <div class="cols">
+    <div class="card do"><h3>כן</h3><ul><!-- דוגמאות כתיבה בקול המותג --></ul></div>
+    <div class="card dont"><h3>לא</h3><ul><!-- משפטים "לא ככה" --></ul></div>
+  </div>
+
+  <h2>ההצעה המרכזית</h2>
+  <p class="offer">{{CENTRAL_OFFER}}</p>
+</main>
+</body>
+</html>

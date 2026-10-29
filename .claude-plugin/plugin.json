@@ -1,0 +1,7 @@
+{
+  "name": "brand-interview",
+  "description": "ראיון מותג בעברית לבעלי עסקים: שואל בקבוצות קטנות ומפיק BRAND.md, דף HTML, PDF ופרומפט להעתקה.",
+  "version": "0.1.0",
+  "author": { "name": "Amit Yehoshaphat" },
+  "license": "MIT"
+}

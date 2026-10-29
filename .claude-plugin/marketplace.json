@@ -1,0 +1,11 @@
+{
+  "name": "brand-interview",
+  "owner": { "name": "Amit Yehoshaphat" },
+  "plugins": [
+    {
+      "name": "brand-interview",
+      "source": "./",
+      "description": "ראיון מותג בעברית לבעלי עסקים: מפיק BRAND.md, דף HTML, PDF ופרומפט להעתקה."
+    }
+  ]
+}
