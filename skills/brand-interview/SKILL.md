@@ -76,11 +76,11 @@ Write all four files to a `brand-kit` folder in the working directory.
    - קהל יעד (הלקוח האידיאלי, כאב, איפה נמצא, התנגדויות)
    - אישיות (3 מילים, המותג כבן אדם, מה הוא לא היה אומר)
    - טון דיבור (פנייה, רשמיות, מילים אהובות ואסורות, 3 דוגמאות כתיבה בקול המותג, 3 משפטים "לא ככה")
-   - מתחרים והבידול
+   - מתחרים והבידול (only if discussed)
    - מראה (צבעים עם HEX ותפקיד של כל צבע, גופנים, סגנון תמונות, לוגו)
    - מטרות והצעה (הפעולה המבוקשת, ההצעה המרכזית, קריאה לפעולה)
    - מה אסור להבטיח
-   - איפה המותג מופיע
+   - איפה המותג מופיע (only if known)
    - נקודות פתוחות
    Mark every item the owner only accepted from your suggestion as `(הצעה שאושרה)`.
 2. **brand.html**: one self-contained RTL page (inline CSS, Google Fonts link for the chosen fonts only) built from `brand-template.html` in this folder. Show the name and slogan, the colors as large swatches with HEX codes, the fonts with a sample line in Hebrew, the 3 personality words, voice dos and don'ts, and the central offer. Mobile friendly. Use the owner's own palette for the page.
