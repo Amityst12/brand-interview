@@ -19,56 +19,49 @@ Speak Hebrew, short and warm, no jargon. If you must use a term (מיצוב, ט�
 ## Before the first question
 
 1. Check the working folder for an existing `BRAND.md`. If found, read it and ask whether to update it or start fresh.
-2. Ask in one message: the business name, and links if any (website, Instagram, Google Business page, existing logo or brand files). If they give links, read them yourself and pre-fill what you can. Then only ask what is still unknown, and say what you already understood so they can correct it.
+2. Ask in one message: the business name, and links if any (website, Instagram, Google Business page). If they give links, read them yourself and pre-fill what you can. Then only ask what is still unknown, and say what you already understood so they can correct it. Do not ask for logo files unless the owner mentions having them.
 
 ## How to interview
 
-- Ask in small groups of 3 to 4 questions at a time, never a long list. Wait for the answers.
-- If the owner does not know how to answer, do not skip. Explain why the question matters in one sentence, give a short example from a similar business, and offer 3 options to pick from. If they pick one, mark it as "הצעה שאושרה".
-- If the owner answers vaguely ("שירות טוב"), ask once for a concrete example or a customer story.
-- Keep a running list of open points. Come back to them at the end.
+The interview should feel short and light, like a conversation, not a form. About 12 questions in total, in 5 groups.
 
-### Group 1: the business
-- מה העסק מוכר, במשפט אחד פשוט? (מוצר או שירות)
-- איך העסק מרוויח: סוג הלקוח, טווח מחירים, שירות חד-פעמי או מתמשך?
-- מה מבדל אותך? למה לקוח יבחר בך ולא באחד אחר?
-- הסיפור שלך: למה התחלת, מה הניע אותך, מה הניסיון שהביא אותך לכאן?
+- Ask 2 to 3 questions at a time, never a long list. Wait for the answers.
+- **Never ask the same thing twice.** Before each question, check what the owner already said (in earlier answers, links or pasted text) and skip whatever you can already infer. If an answer covers a later question, skip that question and say what you understood.
+- **Every question can be skipped.** Tell the owner once at the start: "אפשר לכתוב 'דלג' על כל שאלה". A skipped item goes under "נקודות פתוחות", and you move on without pushing.
+- If the owner does not know how to answer, do not press. Explain why it matters in one sentence, give one short example from a similar business, and offer 3 options to pick from. If they pick one, mark it as "הצעה שאושרה".
+- Do not ask for stories, proof or concrete examples more than once. If an answer is vague, accept it, write it down as it is and move on.
+- Never ask about things the owner has no reason to know (fonts, color codes, brand architecture). Propose, do not interrogate.
 
-### Group 2: the ideal customer
-- מי הלקוח האידיאלי: גיל, מגדר, מקצוע, איפה גר, מה הוא עושה ביום יום?
-- מה הכאב שלו, מה מציק לו לפני שהוא מגיע אליך?
-- איפה הוא נמצא: אינסטגרם, וואטסאפ, גוגל, המלצות מחברים?
-- למה הוא מהסס? אילו שאלות והתנגדויות עולות לפני שהוא מחליט?
+### Group 1: the business (2 questions)
+- מה העסק מוכר, במשפט אחד פשוט?
+- מה מבדל אותך, למה לקוח יבחר בך ולא באחד אחר?
+(The owner's story is optional: only add "יש משהו מהסיפור שלך שחשוב לך שיופיע?" if the owner seems to want it.)
 
-### Group 3: personality
+### Group 2: the ideal customer (3 questions)
+- מי הלקוח האידיאלי ומה מציק לו לפני שהוא מגיע אליך?
+- איפה הוא נמצא ומחפש: אינסטגרם, וואטסאפ, גוגל, המלצות?
+- מה מונע ממנו להחליט?
+
+### Group 3: personality and voice (3 questions)
 - איך אתה רוצה שהלקוח ירגיש כשהוא פוגש אותך? שלוש מילים.
-- אם המותג היה בן אדם: איך הוא מדבר, איך הוא לבוש, מה הוא לא היה אומר אף פעם?
+- פונים אליו בלשון יחיד או רבים, ומדברים חם וקליל או מקצועי ומאופק?
+- יש מילים או ביטויים שאתה אוהב, או כאלה שלעולם לא היית אומר? (If the owner has a post or message they are proud of, they can paste it instead of answering. Do not ask for several samples.)
 
-### Group 4: the visual side
-- יש כבר צבעים או לוגו? אילו צבעים אתה אוהב, ואילו לא מתאימים?
-- יש גופנים שאתה משתמש בהם? אם לא: האם המראה צריך להיות קלאסי או מודרני, נקי או חם?
-- If there is no palette yet, propose 3 palettes (HEX codes, with one line on the feeling of each) based on groups 2 and 3, and let the owner pick or mix. Check text/background contrast for readability (aim for at least 4.5:1) before presenting.
-- If there are no fonts yet, propose 2 pairs of free Google Fonts that support Hebrew (for example Heebo, Assistant, Rubik, Secular One, Frank Ruhl Libre, Alef) and say what each feels like.
+### Group 4: the look (2 questions)
+- יש כבר לוגו או צבעים שאתה משתמש בהם, ואילו צבעים בטוח לא מתאימים?
+- המראה צריך להרגיש קלאסי או מודרני, נקי או חם?
+- If there is no palette yet, propose 3 palettes (HEX codes, with one line on the feeling of each) based on groups 2 and 3, and let the owner pick or mix. Check text/background contrast (aim for at least 4.5:1) before presenting.
+- If there are no fonts yet, propose 2 pairs of free Google Fonts that support Hebrew (for example Heebo, Assistant, Rubik, Secular One, Frank Ruhl Libre, Alef) with a line on what each feels like. Do not ask the owner to name fonts.
 
-### Group 5: competitors
-- מי המתחרים? שניים או שלושה עסקים דומים שהלקוח משווה אליהם.
-- What makes this brand look or sound different from them? (Offer a suggestion from what you learned if the owner is unsure.)
+### Group 5: goals and limits (2 questions)
+- מה הפעולה שאתה רוצה מהלקוח (להשאיר טלפון, לקבוע פגישה, לקנות) ומה ההצעה המרכזית עכשיו?
+- יש משהו שאסור לך או שאתה לא רוצה להבטיח?
+(Ask about legal limits only for regulated fields, such as therapists, doctors, lawyers and financial advisors.)
 
-### Group 6: voice and writing
-- פונים בלשון יחיד או רבים (אתה/את או אתם), ובגוף ראשון יחיד או רבים (אני או אנחנו)?
-- רמת רשמיות וסלנג: מדברים ישר ולעניין, חם וקליל, מקצועי ומאופק? יש הומור?
-- Ask for 2 or 3 pieces of existing writing the owner is proud of (a post, a WhatsApp message, a bio). Read them and describe the voice you hear, then ask if it is right.
-- Ask for words they love and words they never use.
-
-### Group 7: goals and offer
-- מה הפעולה שאתה רוצה מהלקוח: להשאיר טלפון, לקבוע פגישה, לקנות, לעקוב?
-- מה ההצעה המרכזית שאתה רוצה למכור עכשיו?
-- מה אסור להבטיח: מגבלות חוקיות או מקצועיות, ודברים שאתה פשוט לא רוצה להבטיח.
-
-### Group 8: materials and channels
-- איפה המותג מופיע: אינסטגרם, אתר, וואטסאפ, כרטיס ביקור, חולצות, שלטים?
-- איזה לוגו וקבצים יש, ובאיזה פורמט? מי מצלם או מעצב עבורך?
-- שם וסלוגן: האם השם סופי? Offer 3 slogan options in the owner's voice only if they ask for help, and never present a slogan as a promise of results.
+### Optional, only if the owner brought it up
+- מתחרים: ask "מי עוד נמצא בתחום ומה אתה לא רוצה להידמות אליו?" in one question, only if it helps the voice or the positioning.
+- שם וסלוגן: do not ask. If the owner raises it, offer 3 options in their voice and never present a slogan as a promise of results.
+- איפה המותג מופיע: do not ask. Infer the channels from group 2 and from the links.
 
 ## Confirm before writing
 
